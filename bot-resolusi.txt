@@ -2,6 +2,5 @@ BOT RESOLUSI
 - MENAMBAH WAWASAN TENTANG BUT 
 - MEMPERDALAM PENGETAHUN DI BIDANG PER BOT-AN 
 - MENCIPTAKAN BOT YANG BELUM PERNAH ADA (LIMITIT)
-- MEMBUAT FROM DISKUSI
-- memberikan tambahan wawasan ke pada teman teman 
+- MEMBUAT FROM DISKUSI 
 - memberikan pemebelajaran tambahan kepadA  anak didik 
